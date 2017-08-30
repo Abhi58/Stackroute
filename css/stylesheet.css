@@ -1,9 +1,10 @@
 body{ 
-background-color:#D3D3D3;
-margin:  0 35% 0 35%; 
+ font-family:sans-serif;
+ background-color:#D3D3D3;
+ margin:  0 35% 0 35%; 
 }
 .div1{
-margin: 0 0 5% 0; 
-border:solid 2px white; 
-text-align:center;
+ margin: 0 0 5% 0; 
+ border:solid 2px white; 
+ text-align:center;
 }
